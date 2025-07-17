@@ -24,6 +24,7 @@ I love **internet crawling**—digging deep for information, trends, and hidden 
 ---
 
 🌱 Always open to collaborating and learning.
+
 📫 Reach me via [![](https://img.shields.io/badge/LinkedIn-smeetbhanushali-blue?logo=linkedin)](https://linkedin.com/in/smeetbhanushali) or email.
 
 Let's build something great together!
