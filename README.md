@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Smeet Bhanushali
+# 👋 Hi, I’m Smeet
 
 Welcome to my GitHub! I’m currently a **student** but worked as a **Quality Engineering Associate** with a passion for building, and automating software. My interests span software development, automation, and analysis—always eager to learn and contribute to meaningful projects.
 
